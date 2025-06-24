@@ -1,0 +1,37 @@
+{
+    "elements": [
+        {
+            "shade": 99,
+            "id": "terrain_2",
+            "element_type": "TerrainBlockEntity",
+            "texture_export": "landmass_bg_tile.png",
+            "blue": 0,
+            "red": 0,
+            "texture_rotation": 0,
+            "no_fixtures": false,
+            "green": 0,
+            "outline": true,
+            "unbreakable": false,
+            "dynamic": false,
+            "shape": "edgeShape",
+            "tint": 0,
+            "points": [
+                {
+                    "x": 372.6,
+                    "y": 2.400000000000002
+                },
+                {
+                    "x": 384.6,
+                    "y": 662.4000000000001
+                },
+                {
+                    "x": 730.2,
+                    "y": 442.40000000000003
+                }
+            ],
+            "theme": "Wood",
+            "texture_swf": "level_graphics/level_assets_forest.swf",
+            "grass_theme": "[Material]"
+        }
+    ]
+}

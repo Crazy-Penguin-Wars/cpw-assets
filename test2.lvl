@@ -1,0 +1,134 @@
+{
+    "elements": [],
+    "spawn_points": [
+        {
+            "name": "SpawnPoint0",
+            "x": 269,
+            "y": 234
+        },
+        {
+            "name": "SpawnPoint1",
+            "x": 553,
+            "y": 410
+        },
+        {
+            "name": "SpawnPoint2",
+            "x": 165,
+            "y": 461
+        },
+        {
+            "name": "SpawnPoint3",
+            "x": 630,
+            "y": 122
+        }
+    ],
+    "level_name": "Test",
+    "theme": "Forest",
+    "zoom_side": "Forest",
+    "width": 760,
+    "height": 668,
+    "camera_bounds_width": 100,
+    "camera_bounds_height": 100,
+    "water_velocity_x": 0,
+    "water_velocity_y": 0,
+    "water_line": 477,
+    "water_density": 32,
+    "water_lineardrag": 15,
+    "water_angulardrag": 15,
+    "parallax_layers": [
+        {
+            "element_type": "ParallaxLayer",
+            "camera_y_pan": 0,
+            "graphics_export": [
+                "parallax_1_1",
+                "parallax_1_2"
+            ],
+            "graphics_swf": "level_graphics/level_bg_forest.swf",
+            "camera_z": 0,
+            "id": "parallax_4",
+            "gap": 500,
+            "y": 550,
+            "camera_x_pan": 0,
+            "tile_horizontally": true,
+            "x": 100
+        },
+        {
+            "element_type": "ParallaxLayer",
+            "camera_y_pan": 0,
+            "graphics_export": [
+                "parallax_2_2",
+                "parallax_2_1"
+            ],
+            "graphics_swf": "level_graphics/level_bg_forest.swf",
+            "camera_z": 0,
+            "id": "parallax_1",
+            "gap": 800,
+            "y": 580,
+            "camera_x_pan": 0,
+            "tile_horizontally": false,
+            "x": 200
+        },
+        {
+            "element_type": "ParallaxLayer",
+            "camera_y_pan": 0,
+            "graphics_export": [
+                "parallax_3_1"
+            ],
+            "graphics_swf": "level_graphics/level_bg_forest.swf",
+            "camera_z": 0,
+            "id": "parallax_2",
+            "gap": 700,
+            "y": 380,
+            "camera_x_pan": 0,
+            "tile_horizontally": true,
+            "x": 250
+        },
+        {
+            "element_type": "ParallaxLayer",
+            "camera_y_pan": 0,
+            "graphics_export": [
+                "parallax_4_1"
+            ],
+            "graphics_swf": "level_graphics/level_bg_forest.swf",
+            "camera_z": 0,
+            "id": "parallax_3",
+            "gap": 1000,
+            "y": 450,
+            "camera_x_pan": 0,
+            "tile_horizontally": true,
+            "x": 400
+        },
+        {
+            "element_type": "ParallaxLayer",
+            "camera_y_pan": 0,
+            "graphics_export": [
+                "parallax_5_1",
+                "parallax_5_2"
+            ],
+            "graphics_swf": "level_graphics/level_bg_forest.swf",
+            "camera_z": 0,
+            "id": "parallax_5",
+            "gap": 500,
+            "y": 300,
+            "camera_x_pan": 0,
+            "tile_horizontally": false,
+            "x": 200
+        },
+        {
+            "element_type": "ParallaxLayer",
+            "camera_y_pan": 0,
+            "graphics_export": [
+                "parallax_6_1",
+                "parallax_6_2"
+            ],
+            "graphics_swf": "level_graphics/level_bg_forest.swf",
+            "camera_z": 0,
+            "id": "parallax_6",
+            "gap": 500,
+            "y": 160,
+            "camera_x_pan": 0,
+            "tile_horizontally": true,
+            "x": 200
+        }
+    ]
+}
